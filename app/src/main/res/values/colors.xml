@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#000000</color>
+    <color name="titleColor">#08AFE6</color>
+    <color name="subTitleColor">#FFFFFFFF</color>
+    <color name="typeOfShoes">#08AFE6</color>
+    <color name="branch">#08AFE6</color>
+    <color name="color">#08AFE6</color>
+    <color name="colorButton">#08AFE6</color>
+    <color name="colorIcon">#FFFFFFFF</color>
+    <color name="colorTextButton">#FFFFFFFF</color>
+</resources>

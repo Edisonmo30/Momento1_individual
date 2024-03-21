@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Momento1</string>
+    <string name="ImageHeader">imageHeader</string>
+    <string name="title">ELIGE CALIDAD DEPORTIVA</string>
+    <string name="subtitle">¡Escoge tus tenis favoritos!</string>
+    <string name="typeOfShoes">Tipo de tenis</string>
+    <string name="branch">Marca</string>
+    <string name="color">Color</string>
+    <string name="tittlebutton">Buscar tenis</string>
+    <string name="searchResult">RESULTADO DE BUSQUEDA</string>
+</resources>
